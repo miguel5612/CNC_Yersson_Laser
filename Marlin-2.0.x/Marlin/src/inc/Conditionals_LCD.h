@@ -163,7 +163,11 @@
   #define IS_RRD_SC
   #define LCD_WIDTH 16
   #define LCD_HEIGHT 2
+#endif
 
+#ifdef ULTRA_LCD
+   #define LCD_WIDTH 16
+   #define LCD_HEIGHT 2
 #endif
 
 #if ENABLED(IS_RRD_FG_SC)
