@@ -1,0 +1,23 @@
+v1.2.9:
+- custom pwm resolution. Default is 8-bit (0 - 255). To set another value -> double click on "Max Power: ... %" label.  
+
+v1.2.8:
+- destination folder has changed! Now tou can find the GCode next to the original image.
+- added some information about used parameters to the GCode
+
+v1.2.6:
+- image edit functions (brightness, contrast, gamma)
+
+v1.2.5:
+- separate adjusting vertical and horizontal resolution
+- overscan
+- cleaner GCode by equal burn and travel speed
+
+v1.2.4:
+- Control Commands TexBoxes are now multiline
+
+v1.2:
+- design changes
+
+v1.1:
+- fixed white offset changing on mouse click
