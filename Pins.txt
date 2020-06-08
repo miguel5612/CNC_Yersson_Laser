@@ -1,0 +1,12 @@
+#define X_STEP_PIN         54 Puerto PF0  A0
+#define Y_STEP_PIN         60 Puerto PF6  A6
+
+#define X_DIR_PIN          55 Puerto PF1  A1
+#define Y_DIR_PIN          61 Puerto PF7  A7
+
+#define X_ENABLE_PIN       38 Puerto PD7  D38
+#define Y_ENABLE_PIN       56 Puerto PF2  A2
+
+
+#define X_LIMIT_BIT     D3 // MEGA2560 Digital Pin 10
+#define Y_LIMIT_BIT     D14 // MEGA2560 Digital Pin 11
